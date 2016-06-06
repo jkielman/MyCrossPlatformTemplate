@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTRootView.m \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Layout/Layout.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/RCTView.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/jeffkielman/Desktop/Presentation/MyCrossPlatformTemplate/node_modules/react-native/React/Profiler/RCTProfile.h
